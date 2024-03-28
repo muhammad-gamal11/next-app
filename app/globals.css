@@ -18,6 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  text-transform: capitalize;
   background: linear-gradient(
       to bottom,
       transparent,
